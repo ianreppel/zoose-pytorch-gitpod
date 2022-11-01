@@ -1,9 +1,13 @@
 image: databaseline/zoose-pytorch-gitpod:3.1.0
 
 ports:
-  - port: 8888
+  - name: JupyterLab
+    description: JupyterLab port
+    port: 8888
     onOpen: open-browser
-  - port: 6006
+  - name: TensorBoard
+    description: Default port
+    port: 6006
     opOpen: open-browser
 
 vscode:
