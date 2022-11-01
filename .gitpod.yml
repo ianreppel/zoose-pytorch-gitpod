@@ -1,8 +1,10 @@
-image: databaseline/zoose-quantum-gitpod:3.0.1
+image: databaseline/zoose-pytorch-gitpod:3.1.0
 
 ports:
   - port: 8888
     onOpen: open-browser
+  - port: 6006
+    opOpen: open-browser
 
 vscode:
   extensions:
