@@ -7,6 +7,8 @@ Do you want to run PyTorch in your browser with either VSCode or JupyterLab, wit
 1. [Create a workspace](https://www.gitpod.io/docs/introduction/getting-started#start-your-first-workspace) in Gitpod from the repository you created in the previous step.
 1. Enjoy a hosted notebook experience with VSCode and JupyterLab from your browser.
 
+Zoose PyTorch also works with [GitHub Codespaces](https://github.com/ianhellstrom/zoose-codespace).
+
 ## Limitations
 
 Gitpod offers by default 4-core instances with 8GB RAM and 30GB storage.
