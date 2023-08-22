@@ -1,4 +1,4 @@
-# Gitpod workspace for [Zoose PyTorch](https://databaseline.tech/pytorch-with-zoose-for-gitpod/)
+# Gitpod workspace for [Zoose PyTorch](https://ianhellstrom.org/pytorch-with-zoose-for-gitpod/)
 
 Do you want to run PyTorch in your browser with either VSCode or JupyterLab, without installing _anything_?
 
